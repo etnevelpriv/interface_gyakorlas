@@ -20,6 +20,11 @@
             Console.WriteLine(series1.GetLength());
             Console.WriteLine(series2.GetTitle());
             Console.WriteLine(series2.GetLength());
+
+            StreamingPlatform streamingPlatform = new();
+            streamingPlatform.AddContent(movie1);
+            streamingPlatform.AddContent(series1);
+            Console.WriteLine(streamingPlatform.GetLeghosszabbTatalom().GetTitle());
         }
     }
 }
