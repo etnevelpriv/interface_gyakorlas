@@ -64,8 +64,15 @@
             ReadSeries();
             foreach(IContent tartalom in Streaming.TartalomLista)
             {
-                Console.WriteLine(tartalom.GetTitle());
-                if (tartalom.Videos)
+                Console.WriteLine($"{tartalom.GetTitle()} - {tartalom.GetLength()}");
+                if (tartalom is Series series)
+                {
+                    foreach(Video video in series.Videos)
+                    {
+                        Console.WriteLine($"\t{video.Title} - {video.Length}");
+                    }
+                    ;
+                }
             }
         }
     }
