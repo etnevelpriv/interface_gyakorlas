@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StreamingPlatform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30482b94563176537e96ae3d3e133f89711cf003")]
 [assembly: System.Reflection.AssemblyProductAttribute("StreamingPlatform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StreamingPlatform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

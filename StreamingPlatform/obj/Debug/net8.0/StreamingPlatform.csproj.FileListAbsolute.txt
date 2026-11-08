@@ -1,0 +1,15 @@
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/StreamingPlatform.GeneratedMSBuildEditorConfig.editorconfig
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/StreamingPlatform.AssemblyInfoInputs.cache
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/StreamingPlatform.AssemblyInfo.cs
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/StreamingPlatform.csproj.CoreCompileInputs.cache
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/StreamingPlatform.sourcelink.json
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/bin/Debug/net8.0/StreamingPlatform
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/bin/Debug/net8.0/StreamingPlatform.deps.json
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/bin/Debug/net8.0/StreamingPlatform.runtimeconfig.json
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/bin/Debug/net8.0/StreamingPlatform.dll
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/bin/Debug/net8.0/StreamingPlatform.pdb
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/StreamingPlatform.dll
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/refint/StreamingPlatform.dll
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/StreamingPlatform.pdb
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/StreamingPlatform.genruntimeconfig.cache
+/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/obj/Debug/net8.0/ref/StreamingPlatform.dll
