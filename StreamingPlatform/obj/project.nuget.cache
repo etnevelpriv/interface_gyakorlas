@@ -1,8 +1,53 @@
 {
   "version": 2,
-  "dgSpecHash": "rOk/hX8smRg=",
-  "success": true,
-  "projectFilePath": "/home/etnevel/Suli/Desktop_App/interface_gyakorlas/StreamingPlatform/StreamingPlatform.csproj",
+  "dgSpecHash": "gYCYCKr/3U0=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsDesktop.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
+      "filePath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
+      "filePath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
+      "filePath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
+      "filePath": "C:\\Users\\Levente\\Documents\\Suli\\interface_gyakorlas\\StreamingPlatform\\StreamingPlatform.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
